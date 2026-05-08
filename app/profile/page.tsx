@@ -10,7 +10,7 @@ import {
   Cog6ToothIcon,
   BoltIcon,
   ClockIcon
-} from '@heroicons/react/24/outline'
+, HeartIcon } from '@heroicons/react/24/outline'
 
 export default function ProfilePage() {
   const [user] = useState({
